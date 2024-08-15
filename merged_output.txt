@@ -8593,7 +8593,7 @@ CCTV06,http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&a
 福建｜建宁综合,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 福建｜漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 福建｜漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-台湾直播（youtube）,#genre#
+台湾直播（YT）,#genre#
 中天新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/live/oIgbl7t0S_w?feature=share
 民視新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -25073,4 +25073,4 @@ Music876年代音乐电台,https://fanmingming.com/fm?id=1277
 长三角之声,https://fanmingming.com/fm?id=843
 阅读之声,https://fanmingming.com/fm?id=652
 更新时间,#genre#
-20240815-00-53-08,url
+20240815-00-53-08
